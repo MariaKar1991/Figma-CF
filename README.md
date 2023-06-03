@@ -1,1 +1,2 @@
-# figmacf
+# Figma - Example Page 
+** Coding Factory **
