@@ -1,2 +1,2 @@
-# Figma - Example Main Page 
+# Figma 
 ** Coding Factory **
