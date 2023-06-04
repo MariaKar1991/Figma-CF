@@ -1,2 +1,2 @@
-# Figma 
+# Figma - Practice 
 ** Coding Factory **
