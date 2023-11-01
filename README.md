@@ -1,2 +1,1 @@
-# Figma - Practice 
-** Coding Factory **
+# Figma - Coding Factory Bootcamp Practice
